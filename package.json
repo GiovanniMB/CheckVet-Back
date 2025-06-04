@@ -12,14 +12,23 @@
   "license": "ISC",
   "devDependencies": {
     "morgan": "^1.10.0",
-    "nodemon": "^3.1.10"
+    "nodemon": "^3.1.10",
+    "sass": "^1.89.0"
   },
   "dependencies": {
     "bcrypt": "^6.0.0",
+<<<<<<< HEAD
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2",
+=======
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "express-session": "^1.18.1",
+>>>>>>> ae62683b104c573b56ce35d97b430b1ba782f0d1
     "mysql2": "^3.14.1"
   }
 }
